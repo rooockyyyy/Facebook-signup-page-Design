@@ -1,6 +1,5 @@
 # Facebook Signup Page Clone
 
-![Preview](preview.png)
 
 ## Overview
 
