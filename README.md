@@ -13,8 +13,8 @@ This project is a clone of the Facebook signup page, built using HTML and CSS. I
 
 ## How to Run
 
-1. Clone this repository to your local machine using `git clone`.
-2. Navigate to the project directory.
+1. Download visual studio code in your system.
+2. Download the raw data files in this repository and navigate directory file.
 3. Open the `index.html` file in your web browser.
 
 ## Contributing
