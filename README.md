@@ -1,4 +1,4 @@
-=Facebook Signup Page Clone
+#Facebook Signup Page Clone
 This project is a simple clone of the Facebook signup page created using HTML and CSS. It aims to demonstrate basic web design skills by replicating the visual appearance and layout of the Facebook signup page.
 
 Preview
